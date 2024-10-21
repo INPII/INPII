@@ -1,5 +1,14 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy980526)](https://solved.ac/pjy980526/)  
 
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/INPII"
+  width="600"
+  height="300"
+/>
+</a>
+
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=#python&logoColor=White)
 ![django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=#django&logoColor=White)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=#javascript&logoColor=White)
